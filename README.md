@@ -1,0 +1,1 @@
+**Mortality data from SIM/PRO-AIM (CEInfo/SMS-SP), extracted via TABNET. Includes annual indicators, proportional rates and per-capita variations. Traffic-accident deaths are CET-qualified since 2005, with reporting delay. Dataset contains provisional values. Last update: 07/11/2025.**
